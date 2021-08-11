@@ -1,0 +1,135 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+local.py
+
+# Flask instance folder
+instance/
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+
+# pyc files
+
+__pycache__/
+*.pyc
+
+
+.idea/
+media_root/
+static_root/
+logs/
+/backtesting/internal/web_traffic_sales/webtraffic_sales_model/data/concat_per_company/
+/archive/r_square/result/
+/archive/sales_surprise_sensivity/data/
+/archive/sales_surprise_sensivity/data/
+/backtesting/internal/web_traffic_sales/webtraffic_sales_model/data/
+/backtesting/internal/web_traffic_sales/webtraffic_sales_model/data/concat_per_company/
+/backtesting/internal/web_traffic_sales/webtraffic_sales_model/backtest/pnl/
+/backtesting/internal/web_traffic_sales/webtraffic_sales_model/backtest/trade/
+/archive/r_square/result/error ticker.csv
+/archive/r_square/result/error ticker.csv
+/archive/sales_surprise_sensivity/result/
+/archive/r_square/result/
+
+/archive/r_square/result/
+.idea (1)/
+archive/altcap/accounts/desktop.ini
+archive/altcap/accounts/migrations/desktop.ini
+archive/altcap/core/desktop.ini
+archive/altcap/desktop.ini
+archive/altcap/parsing/desktop.ini
+archive/altcap/templates/desktop.ini
+conf/desktop.ini
+conf/dev/desktop.ini
+backtesting/internal/web_traffic_sales/webtraffic_sales_model/backtest/old/desktop.ini
+backtesting/internal/web_traffic_sales/webtraffic_sales_model/db/desktop.ini
+backtesting/internal/web_traffic_sales/webtraffic_sales_model/db/tickers to trade.xlsx
+api/prediction_service/desktop.ini
+backtesting/internal/web_traffic_sales/process_design.drawio
+backtesting/internal/web_traffic_sales/webtraffic_sales_model/tests/desktop.ini
+/backtesting/internal/web_traffic_sales/multiple_traffic_sales_model/backtest/data/agg_all_data/
+/backtesting/internal/web_traffic_sales/webtraffic_sales_model/backtest/data/agg_all_data/
+.DS_Store
+/backtesting/internal/web_traffic_sales/google_trend_sales_model/backtest/data/agg_all_data/
+/data_collection/altdata_service/linkedin/consulting/scraped_linkendin_data.json

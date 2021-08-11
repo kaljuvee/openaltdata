@@ -1,0 +1,15 @@
+pandas
+pyaml
+feedparser
+numpy
+textblob
+psycopg2-binary
+requests
+sqlalchemy
+bs4
+langdetect
+vaderSentiment
+lxml
+OpenPermID
+scipy
+#sec-edgar-downloader

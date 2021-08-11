@@ -1,0 +1,6 @@
+SELECT t.company_id, t.date_utc, t.tweet, t.score_textblob, m.ticker FROM tweet t
+Join maincompany m
+ON m.id = t.company_id
+where t.nlikes > 10
+Order by t.date_utc
+LIMIT 1000;

@@ -1,0 +1,7 @@
+DELETE FROM
+    tweet_cashtag a USING tweet_cashtag b
+WHERE
+    a.id < b.id
+    AND a.tweet_id = b.tweet_id
+    AND a.company_id = b.company_id
+    
